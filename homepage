@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Techzar Consulting</title>
+  <style>
+    body { font-family: Arial; text-align: center; margin: 0; padding: 0; background: #f5f5f5; }
+    header { background: #0077cc; color: white; padding: 50px 20px; }
+    section { padding: 20px; max-width: 600px; margin: auto; }
+    footer { background: #333; color: white; padding: 20px; }
+    a { color: #0077cc; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Techzar Consulting</h1>
+    <p>Professional tagline or service description</p>
+  </header>
+  <section>
+    <h2>Welcome</h2>
+    <p>We offer [your product/service]. Contact us to learn more.</p>
+    <p>Email: your@email.com</p>
+  </section>
+  <footer>
+    <p>&copy; 2025 Your Business Name</p>
+  </footer>
+</body>
+</html>
